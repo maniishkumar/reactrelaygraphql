@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    ["relay", {"compat": true, "schema": "./data/schema.json"}]
+  ],
+  "presets":[
+    "es2015", "react"
+  ]
+}
